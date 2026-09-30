@@ -40,6 +40,8 @@ Built and scaled a custom PC building business to **$60,000+ in revenue**, provi
 <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript">
 <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql">
+<img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin">
+<img src="https://img.shields.io/badge/CUDA-black?style=flat-square&logo=nvidia">
 </div>
 
 ## Frameworks & Libraries
@@ -50,6 +52,14 @@ Built and scaled a custom PC building business to **$60,000+ in revenue**, provi
 <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi">
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql">
 <img src="https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite">
+<img src="https://img.shields.io/badge/WordPress-black?style=flat-square&logo=wordpress">
+</div>
+
+## AI & Machine Learning
+
+<div>
+<img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch">
+<img src="https://img.shields.io/badge/Hugging%20Face-black?style=flat-square&logo=huggingface">
 </div>
 
 ## Databases & Tools
@@ -60,4 +70,6 @@ Built and scaled a custom PC building business to **$60,000+ in revenue**, provi
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows">
+<img src="https://img.shields.io/badge/Android%20Studio-black?style=flat-square&logo=androidstudio">
+<img src="https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple">
 </div>
