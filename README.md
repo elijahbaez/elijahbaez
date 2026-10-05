@@ -4,9 +4,9 @@
 
 </div>
 
-My name is Elijah Baez and I'm a Computer Engineering major at the University of Florida 🐊. I'm especially passionate about the intersection of software and physical hardware; things like custom PC building, PCB design, and systems development get me genuinely excited! I love building practical tools that make complex technology feel intuitive.
+My name is Elijah Baez and I'm a Computer Engineering major at the University of Florida 🐊. I'm especially passionate about writing software that maximizes hardware potential; things like systems programming, AI development, and high-performance computing get me genuinely excited! I love building practical tools that make complex technology feel intuitive.
 
-Additionally, I enjoy creating projects that bridge hardware and software, from full-stack applications to C++ system utilities and custom electronics.
+Additionally, I enjoy creating projects that bridge hardware and software, from scalable full-stack applications to C++ system utilities and CUDA-accelerated tools.  
 
 <a href="https://www.linkedin.com/in/baez-elijah/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
